@@ -1,7 +1,5 @@
 # AWAGAM TLD, Domain, and URL Blocker
 
-[![Steady](https://badgen.net/static/support/this%20project/black)](https://steady.page/en/meiert) [![Buy Me a Coffee](https://badgen.net/static/support/this%20project/pink?icon=buymeacoffee)](https://buymeacoffee.com/meiert)
-
 A Chromium browser extension that blocks access to TLDs, domains, and URLs via user-configurable blocklists. Designed for use against actors engaged in wars, genocides, and misanthropy, but effective in blocking anything.
 
 **[Create your own blocklist](#blocklist-format) (it’s easy) or [use an existing blocklist](#blocklists)!**
