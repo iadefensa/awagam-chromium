@@ -18,8 +18,7 @@
     "name": "Misc",
     "tlds": [],
     "urls": [
-      "https://codeberg.org/j9t/awagam/raw/branch/main/docs/test.png",
-      "codeberg.org/j9t/awagam/raw/branch/main/docs/test-2.png"
+      "https://raw.githubusercontent.com/ia-defensa/awagam-chromium/refs/heads/main/docs/test.png"
     ]
   },
   "tlds": {

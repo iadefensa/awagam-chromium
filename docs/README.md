@@ -6,7 +6,7 @@ This folder contains testing tools, samples, and additional documentation for th
 
 ### test.html
 
-Test page to test against [test blocklist](https://codeberg.org/j9t/awagam/raw/branch/main/docs/test.json).
+Test page to test against [test blocklist](https://raw.githubusercontent.com/ia-defensa/awagam-chromium/refs/heads/main/docs/test.json).
 
 ### test-blocklists.html
 
@@ -49,7 +49,6 @@ docs/
 ├── test.html                           # Extension test page
 ├── test.json                           # Complete format example
 ├── test.png                            # Test image
-├── test-2.png                          # Test image 2
 ├── test-blocklists.html                # Blocklists test page
 ├── test-url-matching.html              # URL matching test page
 ```
