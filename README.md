@@ -284,6 +284,8 @@ The extension provides specific error diagnostics:
 
 ## Contributing
 
+[Contributions are welcome.](CONTRIBUTING.md) They are subject to the [Contributor License Agreement](CLA.md).
+
 1. **Submit issues** for bugs or feature requests
 2. **Test blocklists** and share feedback
 3. **Create sample blocklists** for community use
