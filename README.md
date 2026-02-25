@@ -34,15 +34,17 @@ Tip: Also enable the extension in private mode (“Allow in Incognito”).
 
 Get started by using one or more community and sample blocklists:
 
-* [Individual countries](https://github.com/j9t/awagam-blocklists/tree/main?tab=readme-ov-file#countries) – block country-specific TLDs
-* [**Russia** (invasion of Ukraine)](https://pastebin.com/AjPpQK1p) (use [“raw” URL](https://pastebin.com/raw/AjPpQK1p) for blocklist) (anonymous contribution) – blocks 3 TLDs, 51 domains, 14 URLs (as of Aug 2025)
-* [**Israel** (genocide against Palestine and wars against Islamic countries)](https://pastebin.com/Cf5YCjg2) (use [“raw” URL](https://pastebin.com/raw/Cf5YCjg2) for blocklist) (anonymous contribution) – blocks 3 TLDs, 163 domains, 193 URLs (as of Oct 2025)
-  - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/blob/main/blocklist.json?ref_type=heads) ([“raw”](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution) – blocks 3 TLDs, 163 domains, 198 URLs (as of Oct 2025)
-* [**Hate groups and far-right parties**](https://pastebin.com/jMvCL5bN) (use [“raw” URL](https://pastebin.com/raw/jMvCL5bN) for blocklist) (anonymous contribution) – blocks 0 TLDs, 18 domains, 6 URLs (as of Aug 2025)
+* [Individual countries](https://github.com/j9t/awagam-blocklists/tree/main?tab=readme-ov-file#countries)—block country-specific TLDs
+* [**Russia** (invasion of Ukraine)](https://pastebin.com/AjPpQK1p) (use [“raw” URL](https://pastebin.com/raw/AjPpQK1p) for blocklist) (anonymous contribution)—blocks 3 TLDs, 51 domains, 14 URLs (as of Aug 2025)
+* [**Israel** (genocide against Palestine and wars against Islamic countries)](https://pastebin.com/Cf5YCjg2) (use [“raw” URL](https://pastebin.com/raw/Cf5YCjg2) for blocklist) (anonymous contribution)—blocks 3 TLDs, 163 domains, 193 URLs (as of Oct 2025)
+  - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/blob/main/blocklist.json?ref_type=heads) ([“raw”](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution)—blocks 3 TLDs, 163 domains, 198 URLs (as of Oct 2025)
+* [**Hate groups and far-right parties**](https://pastebin.com/jMvCL5bN) (use [“raw” URL](https://pastebin.com/raw/jMvCL5bN) for blocklist) (anonymous contribution)—blocks 0 TLDs, 18 domains, 6 URLs (as of Aug 2025)
 * [Original sample blocklists](https://github.com/j9t/awagam-sample-blocklists)
 * [**Yours?**](https://github.com/iadefensa/awagam-chromium/pulls)
 
-(Community contributions are only scanned, yet may be declined for any reason. Community blocklists are listed to provide examples, not to endorse their content. It’s on each extension user to decide what to block and, therefore, what blocklists to use.)
+Blocklist providers are encouraged to release their lists under a permissive or public domain license such as [the Unlicense](https://unlicense.org/) or [CC0](https://creativecommons.org/public-domain/cc0/). This ensures maximum compatibility and reuse. If your blocklist is licensed, please include a license file or link in your repository.
+
+(Blocklist contributions are only scanned, yet may be declined for any reason. Blocklists are listed to provide examples, not to endorse their content. It’s on each extension user to decide what to block and, therefore, what blocklists to use.)
 
 ### Blocklist Converter
 
