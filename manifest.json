@@ -21,7 +21,7 @@
       "run_at": "document_end"
     }
   ],
-  "description": "Blocks access to TLDs, domains, and URLs via user-configurable blocklists.",
+  "description": "Block access to TLDs, domains, and URLs, to signal disapproval and to protect yourself and your community",
   "homepage_url": "https://github.com/iadefensa/awagam-chromium",
   "host_permissions": [
     "<all_urls>"
@@ -41,7 +41,7 @@
     "alarms",
     "tabs"
   ],
-  "version": "3.2.0",
+  "version": "3.2.1",
   "web_accessible_resources": [
     {
       "resources": [
